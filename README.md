@@ -21,11 +21,7 @@ A list of core team members responsible for the code and documentation in this r
 ## Repository Structure
 
 <!-- TODO: Including the repository structure helps viewers quickly understand the project layout. Using the "tree -d" command can be a helpful way to generate this information, but, be sure to update it as the project evolves and changes over time. -->
-
-```plaintext
-.
-```
-
+<!--TREE START--><!--TREE END-->
 
 **{list directories and descriptions}**
 
@@ -78,7 +74,7 @@ We also recognize capacity building as a key part of involving a diverse open so
 
 ### Community Guidelines
 
-Principles and guidelines for participating in our open source community are can be found in [COMMUNITY.md](COMMUNITY). Please read them before joining or starting a conversation in this repo or one of the channels listed below. All community members and participants are expected to adhere to the community guidelines and code of conduct when participating in community spaces including: code repositories, communication channels and venues, and events.
+Principles and guidelines for participating in our open source community are can be found in [COMMUNITY.md](COMMUNITY.md). Please read them before joining or starting a conversation in this repo or one of the channels listed below. All community members and participants are expected to adhere to the community guidelines and code of conduct when participating in community spaces including: code repositories, communication channels and venues, and events.
 
 ## Governance
 
